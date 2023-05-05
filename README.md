@@ -14,7 +14,7 @@
 
 <!-- ![Discord](https://discord.c99.nl/widget/theme-3/836471571786104873.png) -->
 <a href="https://discord.com/users/1028360603204587562">
-<img src="https://discord.c99.nl/widget/theme-3/602900188549611543.png" alt="Discord"/>
+<img src="https://discord.c99.nl/widget/theme-3/1028360603204587562.png" alt="Discord"/>
 </a>
 
 Hey, I'm Neon, A partial Indian Developer
