@@ -4,7 +4,7 @@
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/teamcyl) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/depressed._.samar) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCiY38yMl1ewhAk1BBS1jmnw) 
-<a href="https://discord.com/users/1028360603204587562">
+<a href="https://discord.com/users/1115529906919571456">
 <img src="https://discord.c99.nl/widget/theme-3/1028360603204587562.png" alt="Discord"/>
 </a>
 # 💻 Tech Stack:
