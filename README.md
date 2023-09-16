@@ -1,29 +1,71 @@
-# 💫 About Me:
-🔍 I'm NeOn.<br>🔭 I’m currently working on Aware<br>🌱 I’m currently learning JavaScript & Typescript
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kanit&size=35&duration=2000&pause=500&color=F75C5C&width=435&lines=hello+user;welcome+to+cop\'s+profile)](https://github.com/cop-discord/)
 
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/teamcyl) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/samar._.0310) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCiY38yMl1ewhAk1BBS1jmnw) 
-<a href="https://discord.com/users/1099056487868924074">
-<img src="https://discord.c99.nl/widget/theme-3/1099056487868924074.png" alt="Discord"/>
-</a>
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=spread1337&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=spread1337&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=spread1337&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+# <h1 align="center"> ABOUT ME </h1>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <a><img src="https://readme-typing-svg.herokuapp.com?color=3DF7E2&size=30&center=true&lines=Self+taught+developer;Experienced+in+python;Keen+to+learn+new+things"></a>
+</p>
+<p align="center">  
+<img src="https://komarev.com/ghpvc/?username=cop-discord">
+</p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=spread1337&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+## Hello
+<img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="300"/>
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+I am a learning developer, </br>
+`Creator` of Rival AntiNuke
+`Developer` of Blame
+`Creator` of Rival API
 
----
-[![](https://visitcount.itsvg.in/api?id=spread1337&icon=0&color=0)](https://visitcount.itsvg.in)
+### I mainly code in
+- Python  
+- Java
+- Rust
+</img>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### Mostly worked on module
+
+
+
+<!-- py -->
+<a align="left" href="https://github.com/cop-discord?tab=repositories" target="_blank"><img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"></a>
+
+
+
+
+## 📊Profile Stats
+
+
+<table width="100%" align="center">
+  <tr>
+    <td>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=cop-discord&show_icons=true&theme=radical" /> </td>
+<td> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cop-discord&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"/> </td>  
+  
+  </tr>
+ <table>
+<p align="left">
+  <a href="https://github.com/cop-discord/rival"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=cop-discord&repo=rival&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"></a>
+  <a href="https://github.com/cop-discord/button_paginator"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=cop-discord&repo=button_paginator&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"></a>
+
+
+
+</p>
+
+
+## Socials
+   
+
+<p align="center">
+  
+  [<img src='https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg' alt='github' height='40'>](https://github.com/cop-discord)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src='https://cdx.solo.to/images/logo/solo-text-logo-color.svg' alt='instagram' height='40'>](https://solo.to/fry)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src='https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg' alt='Rival' height='40'>]([https://discord.com/oauth2/authorize?client_id=1002294763241885847&permissions=8&scope=applications.commands%20bot](https://discord.com/oauth2/authorize?client_id=1002294763241885847&permissions=8&scope=applications.commands%20bot))
+   
+</p>
+
+<p align="center">  
+<img src="https://discord.c99.nl/widget/theme-1/714703136270581841.png">
+</p>
+
+
